@@ -1,0 +1,21 @@
+{
+  "name": "webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sentry/bun": "^7.102.1",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "pocketbase": "^0.20.2",
+    "polka": "^0.5.2",
+    "telegraf": "^4.15.3",
+    "viem": "^2.0.6"
+  }
+}
